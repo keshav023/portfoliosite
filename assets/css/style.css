@@ -554,7 +554,9 @@ img {
 .hero-img img {
     object-fit: cover;
     display: block;
-    min-height: 600px
+    margin-bottom: 95px;
+    width: 100%;
+    min-height: 374px;
 }
 
 .hero-box h1 {
