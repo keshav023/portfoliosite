@@ -479,7 +479,10 @@ img {
 }
 
 .hero-img {
-    display: flex;
+    display: block;
+    object-fit: cover;
+    min-height: 213px;
+    width: 100%;
     max-width: 1000px;
     margin: 40px auto;
     background: center;
