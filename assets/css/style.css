@@ -494,13 +494,18 @@ img {
 }
 
 .hero-img {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
+    object-fit: cover;
+    margin-bottom: 95px;
+    width: 100%;
+    
     margin: 40px auto;
     background: center;
-    min-height: 600px;
+    min-height: 375px;
     overflow: hidden
+
 }
 
 .glitch-img-warp {
