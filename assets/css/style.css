@@ -481,7 +481,7 @@ img {
 .hero-img {
     display: block;
     object-fit: cover;
-    min-height: 213px;
+    min-height: 375px;
     width: 100%;
     max-width: 1000px;
     margin: 40px auto;
