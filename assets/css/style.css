@@ -484,6 +484,7 @@ img {
     min-height: 375px;
     width: 100%;
     max-width: 1000px;
+    margin-bottom: 74px;
     margin: 40px auto;
     background: center;
     min-height: 600px;
