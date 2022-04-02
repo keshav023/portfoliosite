@@ -223,7 +223,7 @@ img {
 }
 
 #header {
-    z-index: 999;
+   
     transition: all .5s;
     background: #212121;
     position: fixed;
@@ -249,7 +249,7 @@ img {
     left: 0;
     display: flex;
     transition: .3s;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     justify-content: center;
     align-items: center
 }
@@ -284,7 +284,7 @@ img {
 }
 
 #header .profile h1 {
-    font-size: 40px;
+    font-size: 25px;
     padding: 10px 0;
     margin: 0;
     line-height: 1;
