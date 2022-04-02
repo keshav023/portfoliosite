@@ -460,15 +460,28 @@ img {
     z-index: 1
 }
 
-.background {
+
+
+.background1 {
     position: absolute;
     height: 1001px;
     width: 400px;
-    background: #ff651c;
+    background: #2753d7;
     z-index: 0;
     left: -170px;
     top: -410px;
     transform: rotate(45deg)
+}
+
+.background2 {
+    position: absolute;
+    height: 1078px;
+    width: 712px;
+    background: #2753d7;
+    z-index: 0;
+    left: 801px;
+    top: 377px;
+    transform: rotate(227deg);
 }
 
 .hero-box {
@@ -573,7 +586,7 @@ img {
 .hero-box .btn-scroll {
     transition: .4s;
     color: rgba(255, 255, 255, .6);
-    animation: up-down 1s ease-in-out infinite alternate-reverse both
+ animation: up-down 1s ease-in-out infinite alternate-reverse both
 }
 
 .hero-box .btn-scroll i {
