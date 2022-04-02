@@ -504,7 +504,7 @@ img {
 .hero-img {
   display: flex;
   justify-content: center;
-  align-items: center;
+  
   margin: 40px auto;
   background: center;
   min-height: 600px;
