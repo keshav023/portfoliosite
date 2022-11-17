@@ -257,8 +257,8 @@ img {
 #header .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #ff651c;
-    color: #fff;
+    background: #fff;
+    color: #000;
     line-height: 1;
     padding: 9px 0;
     border-radius: 50%;
@@ -270,8 +270,8 @@ img {
 }
 
 #header .social-links a:hover {
-    background: #fff;
-    color: #ff651c;
+    background: #000;
+    color: #fff;
     text-decoration: none
 }
 
@@ -1376,9 +1376,9 @@ section {
 .contact .social-links a {
     font-size: 18px;
     display: inline-block;
-    color: #888;
+    color: #000;
     line-height: 1;
-    background: #111;
+    background: #fff !important;
     margin: 0 8px;
     transition: .3s;
     padding: 14px;
@@ -1386,8 +1386,8 @@ section {
 }
 
 .contact .social-links a:hover {
-    color: #fff;
-    background: #ff651c
+    color: #000;
+    background: #fff !important
 }
 
 .email-form {
