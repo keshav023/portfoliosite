@@ -466,7 +466,7 @@ img {
     position: absolute;
     height: 1001px;
     width: 400px;
-    background: #2753d7;
+    background: #66fcf1;
     z-index: 0;
     left: -170px;
     top: -410px;
@@ -477,7 +477,7 @@ img {
     position: absolute;
     height: 1078px;
     width: 712px;
-    background: #2753d7;
+    background: #66fcf1;
     z-index: 0;
     left: 801px;
     top: 377px;
@@ -1067,7 +1067,7 @@ section {
     background: #ff651c;
     padding: 7px 10px;
     text-transform: uppercase;
-    color: #fff;
+    color: #000;
     transition: all .3s ease-in-out;
     border: 2px solid #ff651c;
     border-radius: 10px
@@ -1450,7 +1450,7 @@ section {
     border: 0;
     padding: 10px 24px;
     border: 1px solid #ff651c;
-    color: #fff;
+    color: #000;
     transition: .4s;
     border-radius: 5px
 }
@@ -1491,7 +1491,7 @@ section {
 }
 
 #footer {
-    color: #fff;
+    color: #000;
     font-size: 14px;
     text-align: center;
     border-radius: 20px;
