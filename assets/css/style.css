@@ -257,7 +257,7 @@ img {
 #header .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #fff;
+    background: #fff !important;
     color: #000;
     line-height: 1;
     padding: 9px 0;
@@ -1527,8 +1527,8 @@ section {
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #ff651c;
-    color: #fff;
+    background: #fff !important;
+    color: #000;
     line-height: 1;
     padding: 9px 0;
     margin: 0 5px;
